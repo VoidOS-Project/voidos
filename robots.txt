@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+
+Sitemap: https://voidos.in/sitemap.xml
